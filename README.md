@@ -3,7 +3,7 @@
 ## Burn area
 ### Input images of Burn area
 
-![Burn area](https://raw.githubusercontent.com/rulixiang/ChangeDetectionPCAKmeans/master/result/1-1.bmp) 
+![Burn area](https://raw.githubusercontent.com/Aditya-kalaskar/unsupervised-change-detection-in-hyperspectral-imagery/master/result/1-1.bmp) 
 
 ### Change Detection results
 
