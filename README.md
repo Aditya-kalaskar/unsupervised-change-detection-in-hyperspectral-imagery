@@ -42,4 +42,3 @@
 
 ![Lake area resullts](https://raw.githubusercontent.com/rulixiang/ChangeDetectionPCAKmeans/master/result/4-2.bmp) 
 
-
